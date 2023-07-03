@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Pejuang
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pejuang\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Pejuang()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animateIddle()
+comment4.params=mirror
+comment4.target=void\ animateRun(int)
+comment5.params=mirror
+comment5.target=void\ animateShoot(int)
+comment6.params=
+comment6.target=boolean\ hitPembatas()
+numComments=7
